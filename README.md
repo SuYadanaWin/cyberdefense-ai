@@ -2,6 +2,7 @@
 This is the research project for hybrid AI for cyber defense and threat detection
 
 implementation and evaluation explanation step by step
+
 1. NSL-KDD Directory:
 KDDTest+_Binary_Classification.ipynb:
 oThis notebook likely implements binary classification models to detect whether a network traffic instance is either normal or malicious (binary classification). It uses the NSL-KDD dataset, which is commonly used for network intrusion detection.
