@@ -10,6 +10,7 @@ implements binary classification models to detect whether a network traffic inst
 Key Implementation: Preprocessing the NSL-KDD dataset (like handling categorical features), applying algorithms such as Logistic Regression, SVM, or Decision Trees, and comparing their performance.
 Evaluation: Models will be evaluated using accuracy, precision, recall, and F1-score.
 
+
 •KDDTest+_Multiclass.ipynb:
 the task to multiclass classification, where the models classify network traffic into several attack types like DoS, Probe, U2R, R2L.
 Key Implementation: to discuss how different machine learning models are adapted for multiclass classification, such as softmax classifiers or using one-vs-rest approaches.
